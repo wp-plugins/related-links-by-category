@@ -3,7 +3,7 @@ Contributors: videoguy916
 Tags: widget, post, related, links, category
 Requires at least: 2.5
 Tested up to: 2.7.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 This is a widget for the sidebar that shows other posts in the same category as the post being viewed.
 
@@ -22,3 +22,7 @@ There are several plugins that add a widget to the sidebar showing recent posts 
 = Configuration =
 
 The title of the widget and number of posts for each category can be changed through the menu on the 'Widgets' page.
+
+== Changelog ==
+
+Update 1.1: Fixed link structure so the link doesn't rely on the post's GUID
