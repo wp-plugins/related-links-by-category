@@ -35,7 +35,7 @@ foreach($catposts as $p) {
 
 if ($d <= $data['disp']) {
 if ($cur_id != $p->ID) {
-$related .= '<li><a href="'.$p->guid.'">'.$p->post_title.'</a></li>';
+$related .= '<li><a href="'.get_bloginfo('home').'/?p='.$p->ID.'">'.$p->post_title.'</a></li>';
 $d++;
 }}
 

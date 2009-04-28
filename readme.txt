@@ -1,6 +1,6 @@
 === Related Links by Category ===
 Contributors: videoguy916
-Tags: widget, post, sidebar, archive, archives, categories, category, history, manager, recent, comments, jquery, accordion
+Tags: widget, post, related, links, category
 Requires at least: 2.5
 Tested up to: 2.7.1
 Stable tag: 1.0
