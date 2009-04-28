@@ -4,7 +4,7 @@ Plugin Name: Related Links by Category
 Plugin URI: http://andrewanimation.biz/games/RLBC-plugin/
 Description: This is a widget for the sidebar that shows other posts in the same category as the post being viewed.
 Author: Andrew Stephens
-Version: 1.0
+Version: 1.1
 Author URI: http://andrewanimation.biz/
 */
 
